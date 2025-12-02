@@ -16,7 +16,3 @@ Questão 4: ✔️ Correta
 IMPORTANTE:
 - Este resultado NÃO serve como nota oficial do curso.
 - Faça o commit e push deste arquivo para o seu repositório no GitHub.
-
-| Nome                     | Matrícula               |
-|--------------------------|--------------------------|
-|  |  |
